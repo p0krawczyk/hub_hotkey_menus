@@ -92,8 +92,8 @@ mod.activate_credits_vendor_background_view = function(self)
   activate_hub_view("credits_vendor_background_view")
 end
 
-mod.activate_inbox_view = function(self)
-  activate_hub_view("inbox_view")
+mod.activate_expedition_view = function(self)
+  activate_hub_view("expedition_view")
 end
 
 mod.activate_mission_board_view = function(self)
