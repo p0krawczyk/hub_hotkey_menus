@@ -68,9 +68,9 @@ return {
     ["zh-cn"] = "打开军械交易所界面。",
     ru = "Открывает меню покупки Снаряжения.",
   },
-  -- inbox_view
-  open_inbox_view_key = {
-    en = "Inbox",
+  -- Expedition_view
+  open_expedition_view_key = {
+    en = "Expeditions",
     ["zh-cn"] = "信件",
     ru = "Послания",
   },
