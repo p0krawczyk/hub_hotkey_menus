@@ -50,12 +50,12 @@ return {
         function_name   = "activate_credits_vendor_background_view",
       },
       {
-        setting_id      = "open_inbox_view_key",
+        setting_id      = "open_expedition_view_key",
         type            = "keybind",
         default_value   = {},
         keybind_trigger = "pressed",
         keybind_type    = "function_call",
-        function_name   = "activate_inbox_view",
+        function_name   = "activate_expedition_view",
       },
       {
         setting_id      = "open_mission_board_view_key",
@@ -124,3 +124,4 @@ return {
     }
   }
 }
+
